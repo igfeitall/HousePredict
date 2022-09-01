@@ -1,2 +1,2 @@
 # HousePredict
-Machine Learning Model to precit house prices
+Machine Learning Model to predict house prices
